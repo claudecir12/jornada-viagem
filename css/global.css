@@ -17,8 +17,8 @@
   --text-secundary-color: #ffffff;
   --title-weigth:700;
   --title-weight:400;
-  --menu-text
-}
+  --menu-text:#fffff;
+  }
 /* CSS RESET */
 body,
 img,
@@ -34,7 +34,7 @@ button {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}
+} 
 
 body {
   font-family: "Montserrat";
